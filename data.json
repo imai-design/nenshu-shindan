@@ -1,0 +1,244 @@
+{
+  "source": "厚生労働省 賃金構造基本統計調査(令和5年) / 厚生労働省 職業情報提供サイト job tag 職業詳細ページ",
+  "asof": "2026-08-17",
+  "jobs": [
+    {
+      "name": "医師",
+      "annual_income_man_yen": 1436.5,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "法務従事者",
+      "annual_income_man_yen": 1121.7,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "大学教授（高専含む）",
+      "annual_income_man_yen": 1074.7,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "歯科医師",
+      "annual_income_man_yen": 924.3,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "管理的職業従事者",
+      "annual_income_man_yen": 885.3,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "公認会計士，税理士",
+      "annual_income_man_yen": 746.7,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "研究者",
+      "annual_income_man_yen": 740.2,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "高等学校教員",
+      "annual_income_man_yen": 699.2,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "電気・電子・電気通信技術者（通信ネットワーク技術者を除く）",
+      "annual_income_man_yen": 688.2,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "システムコンサルタント・設計者",
+      "annual_income_man_yen": 684.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "小・中学校教員",
+      "annual_income_man_yen": 660.6,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "金融営業職業従事者",
+      "annual_income_man_yen": 636.6,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "建築技術者",
+      "annual_income_man_yen": 632.8,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "機械技術者",
+      "annual_income_man_yen": 612.4,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "土木技術者",
+      "annual_income_man_yen": 603.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "その他の営業職業従事者",
+      "annual_income_man_yen": 579.5,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "薬剤師",
+      "annual_income_man_yen": 577.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "その他の情報処理・通信技術者",
+      "annual_income_man_yen": 558.3,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "ソフトウェア作成者",
+      "annual_income_man_yen": 557.6,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "電気工事従事者",
+      "annual_income_man_yen": 550.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "デザイナー",
+      "annual_income_man_yen": 509.3,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "看護師",
+      "annual_income_man_yen": 508.2,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "幼稚園教員，保育教諭",
+      "annual_income_man_yen": 407.6,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "保育士",
+      "annual_income_man_yen": 396.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "介護職員（医療・福祉施設等）",
+      "annual_income_man_yen": 371.4,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "理容・美容師",
+      "annual_income_man_yen": 379.7,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "販売店員",
+      "annual_income_man_yen": 361.0,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "飲食物調理従事者",
+      "annual_income_man_yen": 358.9,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "タクシー運転者",
+      "annual_income_man_yen": 419.0,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "ビル・建物清掃員",
+      "annual_income_man_yen": 278.4,
+      "source_url": "https://www.e-stat.go.jp/stat-search/files?page=1&toukei=00450091&tstat=000001011429&cycle=0&tclass1=000001213360&tclass2=000001215880&tclass3=000001215884&layout=datalist&tclass4val=0",
+      "source_name": "厚生労働省 賃金構造基本統計調査 令和5年(2023年)",
+      "note": "令和5年(2023年)賃金構造基本統計調査「職種(小分類)、性別きまって支給する現金給与額、所定内給与額及び年間賞与その他特別給与額(産業計)」第1表より、企業規模計(10人以上)・男女計の値を使用。年収推定=きまって支給する現金給与額(月額)×12+年間賞与その他特別給与額(年額)。"
+    },
+    {
+      "name": "システムエンジニア（Webサービス開発）",
+      "annual_income_man_yen": 574.1,
+      "source_url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/314",
+      "source_name": "厚生労働省 職業情報提供サイト(job tag) 職業詳細ページ",
+      "note": "job tag掲載「賃金（年収）」全国値。出典は令和6年賃金構造基本統計調査を加工。年齢38歳。スキルレベル別(ITSSレベル1〜5以上、第1〜第3四分位)は420.0万円〜950.0万円。取得日2026-08-17時点、shigoto.mhlw.go.jpはメンテナンス中のためInternet Archive保存版(2025-12-30取得)で確認。"
+    },
+    {
+      "name": "プログラマー",
+      "annual_income_man_yen": 574.1,
+      "source_url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/313",
+      "source_name": "厚生労働省 職業情報提供サイト(job tag) 職業詳細ページ",
+      "note": "job tag掲載「賃金（年収）」全国値。出典は令和6年賃金構造基本統計調査を加工。システムエンジニア（Webサービス開発）と同じ職業分類区分の集計値のため同数値。スキルレベル別(ソフトウェア開発スペシャリスト区分)は435.0万円〜866.0万円。Internet Archive保存版(2025-07-10取得)で確認。"
+    },
+    {
+      "name": "データサイエンティスト",
+      "annual_income_man_yen": 573.0,
+      "source_url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/323",
+      "source_name": "厚生労働省 職業情報提供サイト(job tag) 職業詳細ページ",
+      "note": "job tag掲載「賃金（年収）」全国値。出典は令和6年賃金構造基本統計調査を加工。年齢43歳。スキルレベル別(企画立案・プロジェクト管理区分、ITSSレベル3〜5以上)は600.0万円〜1100.0万円。Internet Archive保存版(2025-07-13取得)で確認。"
+    },
+    {
+      "name": "AIエンジニア",
+      "annual_income_man_yen": 534.6,
+      "source_url": "https://shigoto.mhlw.go.jp/User/Occupation/Detail/325",
+      "source_name": "厚生労働省 職業情報提供サイト(job tag) 職業詳細ページ",
+      "note": "job tag掲載「賃金（年収）」全国値。出典は令和4年賃金構造基本統計調査を加工(他3職種より1つ古い調査年)。年齢40.8歳。Internet Archive保存版(2023-05-25取得)で確認。ライブサイトが復旧後に令和6年ベースの最新値へ更新されていないか要再確認。"
+    }
+  ]
+}
